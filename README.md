@@ -1,1 +1,1 @@
-# game-collect-appls
+# game-collect-apples
